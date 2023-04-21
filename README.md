@@ -35,7 +35,7 @@
 - C# (продвинутый уровень)
 - JavaScript (средний уровень)
 - Java (знаю основы)
-- Python (новичок)
+- Python (знаю основы)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemSoftware2006)](https://github.com/anuraghazra/github-readme-stats)
 
