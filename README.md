@@ -39,13 +39,12 @@
 
 ## Технологии
 - ASP.NET Core
-- Spring Boot, Data Jpa, Security, Test
 - Rest API, MVC, SignalR, gRPC
 - MYSQL, MSSQL Server, PostgreSql
 - Entity Framework
 - RabbitMQ
 - Hangfire, Mapster/AutoMapper
-- React
+- Angular, SCSS, TS
 - Bootstrap
 - Docker
 - Git, GitHub/GitLab
@@ -55,7 +54,8 @@
 ## Языки программирования
 - C# (Профессиональный уровень)
 - JavaScript/TypeScript (Профессиональный уровень)
-- Java (Профессиональный уровень)
+- Java (Уровень уверенного пользователя)
+- Go (знаю основы)
 - С/С++ (знаю основы)
 - Python (знаю основы)
 
