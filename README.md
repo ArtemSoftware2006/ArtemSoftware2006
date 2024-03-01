@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://img.freepik.com/premium-vector/vector-illustration-of-evergreen-christmas-tree-created-with-wireframe-and-connected-lines-as-branches-celebration-theme-eco-friendly-technology-concept_570429-19284.jpg" width="400"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ### Всем привет! 👋
