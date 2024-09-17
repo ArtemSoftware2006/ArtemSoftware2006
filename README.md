@@ -7,7 +7,7 @@
 # Обо мне
 Меня зовут Егоров Артём Олегович
 
-**Я SRE Engineer** 
+**Я SRE-Engineer** 
 
 Инициатива и внимание к деталям — ключ к надежности и эффективности.
 
@@ -48,7 +48,7 @@
 - Grafana, Fluent Bit, Loki, ELK
 - GitLab CI/CD
 - Nginx
-- Трабулшутинг сетей, инфраструктуры, приложений
+- Траблшутинг сетей, инфраструктуры, приложений
 - Debian, AlmaLinux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemSoftware2006)](https://github.com/anuraghazra/github-readme-stats)
