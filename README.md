@@ -5,54 +5,51 @@
 ### Всем привет! 👋
 
 # Обо мне
-Меня зовут Егоров Артём Олегович. Занимаюсь разработкой третий год. 
+Меня зовут Егоров Артём Олегович
 
-**Fullstack-разработчик** 
+**Я SRE Engineer** 
 
-Я fullstack разработчик на ASP.NET и Angular.**Имею коммерческий опыт**, участвую в соревнованиях и хакатонах и активно развиваюсь самостоятельно.
+Инициатива и внимание к деталям — ключ к надежности и эффективности.
 
-Я активно развиваюсь в своей профессии и ищу команду, в которой мог бы реализовать свой потенциал, создавать лучшие продукты и учиться нововму!
+## Опыт
 
-## Мои проекты
-
- - **Inferno Hookah** - мобильное приложения для кальянной Inferno Lounge. Разрабатывал бэкэнд. **Реализовал взаимодействие с CRM для бронирования столов**. пользователями. Также реализовал синхронизацию БД на сервере и CRM
- - **PokerPlan** - Realtime сайт для проведения голосований по системе Scrum. Сайт разработан на **Asp.net MVC + SignalR**. Особенностью является красивый дизайн, генерация qr-кода комнаты.
- - **Собственные проекты** - gRPC, алгоритмы и структуры данных, STMP и многое другое!!!
+ - **VK (SRE Engineer)**
+   - Администрирование 2-х кластеров k8s, создание собственных манифестов (использовали helm)
+   - Настроил pipeline CI/CD в GitLab (сборка, тестирование, деплой) для frontend и backend сервисов (React, Go) 
+   - Настроил мониторинг  (Fluent Bit, Loki, Grafana) для 2-х кластеров k8s и продуктовых сервисов. Создал 4 собственных дашборда  
+   - Настроил алертинга для 7 сервисов
+ - **Inferno Lounge (DevOps Engineer)** 
+   - Настройка Pipeline в GitHub Actions (сборка, тестирование и деплой) для beackend (Spring)
+   - Настройка тестовой и продакшн сред (VM, Docker Compose)
+   - Настройка БД (Postgres)
+ - **Rendez Vous (Helpdesk L1)**
+   - Регистрация инцидентов, выяснение подробностей проблемы и решение проблемы
+   - Устранение проблем с ТСД, учетными записями сотрудников, мобильным приложением и сайтом компании
 
 # Мой стэк
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
-## Технологии
-- ASP.NET Core
-- Angular, SCSS, TS
-- Rest API, MVC, SignalR, gRPC
-- MYSQL, MSSQL Server, PostgreSql
-- Entity Framework
-- RabbitMQ
-- Hangfire, Mapster/AutoMapper
-- Bootstrap
-- Docker
-- Git, GitHub/GitLab
-- Linux
-- WindowsForms, WPF 
-
-## Языки программирования
-- C# (Профессиональный уровень)
-- JavaScript/TypeScript (Профессиональный уровень)
-- Java (Уровень уверенного пользователя)
-- Go (знаю основы)
-- С/С++ (знаю основы)
-- Python (знаю основы)
+## Навыки
+- Kubernetes/Docker Compose/Docker
+- Ansible
+- Terraform
+- Go/Python/Bash
+- Postgres/MySql/Redis
+- Grafana, Fluent Bit, Loki, ELK
+- GitLab CI/CD
+- Nginx
+- Трабулшутинг сетей, инфраструктуры, приложений
+- Debian, AlmaLinux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemSoftware2006)](https://github.com/anuraghazra/github-readme-stats)
 
